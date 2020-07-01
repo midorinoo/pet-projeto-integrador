@@ -4,9 +4,21 @@ body {
 
 }
 
+.site-content{
+  margin: 10px;
+}
 
-a.nav-link.botao-1 {
-  color: #fff;
-  
 
+.titulo-principal {
+  text-align: center;
+  max-height: 4.5rem;
+  margin-top: 30px;
+
+}
+
+.produtos {
+  text-align: center;
+  /* background-color: green; */
+  margin: 10px;
+  padding: 85px;
 }
